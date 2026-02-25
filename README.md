@@ -98,6 +98,8 @@ We use this categorical data encoding technique when the features are nominal(do
 
 <img width="905" height="598" alt="Screenshot 2026-02-25 180142" src="https://github.com/user-attachments/assets/590af93b-8653-4494-9fd4-74f096552235" />
 
+[ds-exp3.pdf](https://github.com/user-attachments/files/25546019/ds-exp3.pdf)
+
 # RESULT:
    successfully performed Feature Encoding and Transformation process and saved the data to a file.
 
