@@ -85,7 +85,20 @@ We use this categorical data encoding technique when the features are nominal(do
     print(positive_data.head())
     ---'''
 
+
+<img width="764" height="366" alt="Screenshot 2026-02-25 180030" src="https://github.com/user-attachments/assets/098c58a9-a95c-4221-936e-778e480b4ce1" />
+
+<img width="814" height="358" alt="Screenshot 2026-02-25 180041" src="https://github.com/user-attachments/assets/a121961f-cc83-4d93-ac76-7d03cfaccbb5" />
+
+<img width="648" height="119" alt="Screenshot 2026-02-25 180050" src="https://github.com/user-attachments/assets/892b7caf-a01b-4504-8cac-2b4a471aae47" />
+
+<img width="611" height="214" alt="Screenshot 2026-02-25 180106" src="https://github.com/user-attachments/assets/75891753-6792-4c1a-b776-6905a191f1de" />
+
+<img width="353" height="163" alt="Screenshot 2026-02-25 180113" src="https://github.com/user-attachments/assets/4e40e7ad-a7a2-4df6-8c05-46ed5a6b420e" />
+
+<img width="905" height="598" alt="Screenshot 2026-02-25 180142" src="https://github.com/user-attachments/assets/590af93b-8653-4494-9fd4-74f096552235" />
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+   successfully performed Feature Encoding and Transformation process and saved the data to a file.
 
        
