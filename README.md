@@ -31,7 +31,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-    ---python 
+    ~~~ python 
      import pandas as pd
     import numpy as np
     from sklearn.preprocessing import LabelEncoder, StandardScaler, PowerTransformer
@@ -83,9 +83,8 @@ We use this categorical data encoding technique when the features are nominal(do
     print("\nTransformation Completed Successfully.")
     print("\nTransformed Dataset Preview:")
     print(positive_data.head())
-    ---'''
-
-
+    ~~~
+# output:
 <img width="764" height="366" alt="Screenshot 2026-02-25 180030" src="https://github.com/user-attachments/assets/098c58a9-a95c-4221-936e-778e480b4ce1" />
 
 <img width="814" height="358" alt="Screenshot 2026-02-25 180041" src="https://github.com/user-attachments/assets/a121961f-cc83-4d93-ac76-7d03cfaccbb5" />
